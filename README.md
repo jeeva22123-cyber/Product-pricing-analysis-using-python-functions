@@ -1,6 +1,5 @@
 # Product-pricing-analysis-using-python-functions
 # EXPERIMENT - 1.B
-# DSWP-Experiment-1.B.-Product-pricing-analysis-using-python-functions
 
 ## Aim
 To analyze quarterly product sales data across multiple products and quarters using 2D NumPy arrays and Python statistical functions.
